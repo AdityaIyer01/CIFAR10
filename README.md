@@ -3,7 +3,7 @@
 
 Authors: Aditya Iyer, Rebecca Rozansky, Daqi (Jen) Chen, Mohammed Alnasser
 
-## About the Repository
+## About the Project
 
 Image analysis and classification are at the forefront of machine learning research. Our daily lives already make use of advanced image processing models, whether they be for identifying road signs for an autonomous vehicle or classifying malignant tumors. CIFAR-10 is a collection of low-resolution images that fall into ten different classes. In this paper, we construct a deep learning model consisting of convolutional and fully-connect layers to accurately classify each image.
 
