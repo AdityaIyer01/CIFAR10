@@ -15,20 +15,20 @@ The baseline model consists of 3 VGG blocks.
 
 ### [Regularized Model](Regularized_Model.ipynb)
 
-The regularized model is the same as the baseline model but with dropout layers implemented after each VGG block.
+The regularized model is similar to the baseline model, but it contains a dropout layer after each VGG block and dense layer.
 
-### [Data Augmented Model](Model_with_Data_Augmentation.ipynb)
+### [Regularized Model with Data Augmentation](Model_with_Data_Augmentation.ipynb)
 
-The data augmented model manipulates and transforms the data before it is fed into the neural network.
+The neural network architecture of this model is identical to that of the regularized model. However, the CIFAR-10 data is transformed before being fed into the model.
 
-### [Batch-Normalized Model](Model_with_Batch_Normalization.ipynb)
+### [Regularized Model with Data Augmentation and Batch Normalization](Model_with_Batch_Normalization.ipynb)
 
-The batch-normalized model adds a batch-normalization layer after each layer in the network.
+This model is similar to the regularized model with data augmentation. However, the model contains a batch normalization layer after each convolutional layer and dense layer.
 
 ### [Final Model](Final_Model.ipynb)
 
-The final network combines all of the models above to produce our final accuracy of 89.6%.
+The architecture of the final model is identical to that of the regularized model with data augmentation and batch normalization. However, the final model is trained over the entire, unpartitioned training set and evaluated on the test set. It achieves a test accuracy of 89.6%.
 
-### [Visualization](Visualizations.ipynb)
+### [Visualizations](Visualizations.ipynb)
 
-The visualization file contains all of the graphs used in the paper as well as the summary model for each of the networks.
+The notebook, <a href="Visualizations.ipynb">Visualizations.ipynb</a>, contains all of the graphs found in the report as well as a summary and diagram of each distinct neural network architecture.
