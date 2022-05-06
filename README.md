@@ -1,7 +1,7 @@
 # CIFAR-10 Image Classification Using CNN
 `COMP 562 Final Group Project`
 
-Authors: Aditya Iyer, Rebecca Rozansky, Daqi (Jen) Chen, Mohammed Alnasser
+Authors: Mohammed Alnasser, Daqi (Jen) Chen, Aditya Iyer, Rebecca Rozansky
 
 ## About the Project
 
