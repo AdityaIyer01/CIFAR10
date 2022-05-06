@@ -9,26 +9,22 @@ Image analysis and classification are at the forefront of machine learning resea
 
 ## What does each model do?
 
-### Baseline Model
+### [Baseline Model](Baseline_Model.ipynb)
 
 The baseline model consists of 3 VGG blocks.
 
-### Regularized Model
+### [Regularized Model](Regularized_Model.ipynb)
 
 The regularized model is the same as the baseline model but with dropout layers implemented after each VGG block.
 
-### Data Augmented Model
+### [Data Augmented Model](Model_with_Data_Augmentation.ipynb)
 
 The data augmented model manipulates and transforms the data before it is fed into the neural network.
 
-### Batch-Normalized Model
+### [Batch-Normalized Model](Model_with_Batch_Normalization.ipynb)
 
 The batch-normalized model adds a batch-normalization layer after each layer in the network.
 
-### Final Model
+### [Final Model](Final_Model.ipynb)
 
 The final network combines all of the models above to produce our final accuracy of 89.6%.
-
-### Visualizations
-
-Generates all of the graphs we used in our reports as well as summaries and diagrams of each model.
