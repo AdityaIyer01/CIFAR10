@@ -7,6 +7,8 @@ Authors: Mohammed Alnasser, Daqi (Jen) Chen, Aditya Iyer, Rebecca Rozansky
 
 Image analysis and classification are at the forefront of machine learning research. Our daily lives already make use of advanced image processing models, whether they be for identifying road signs for an autonomous vehicle or classifying malignant tumors. CIFAR-10 is a collection of low-resolution images that fall into ten different classes. In this paper, we construct a deep learning model consisting of convolutional and fully-connect layers to accurately classify each image.
 
+<b><a href="Report.pdf">View Full Report</a></b>
+
 ## What does each model do?
 
 ### [Baseline Model](Baseline_Model.ipynb)
