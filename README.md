@@ -28,3 +28,7 @@ The batch-normalized model adds a batch-normalization layer after each layer in 
 ### Final Model
 
 The final network combines all of the models above to produce our final accuracy of 89.6%.
+
+### Visualizations
+
+Generates all of the graphs we used in our reports as well as summaries and diagrams of each model.
