@@ -1,5 +1,5 @@
-# CIFAR-10 Image Classification Using CNN
-`COMP 562 Final Group Project`
+# CIFAR-10 Image Classification Using CNNs
+`COMP 562 Spring 2022 Final Project`
 
 Authors: Mohammed Alnasser, Daqi (Jen) Chen, Aditya Iyer, Rebecca Rozansky
 
