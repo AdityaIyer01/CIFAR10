@@ -31,4 +31,4 @@ The architecture of the final model is identical to that of the regularized mode
 
 ### [Visualizations](Visualizations.ipynb)
 
-The notebook, <a href="Visualizations.ipynb">Visualizations.ipynb</a>, contains all of the graphs found in the report as well as a summary and diagram of each distinct neural network architecture.
+The notebook, <a href="Visualizations.ipynb">Visualizations.ipynb</a>, contains all of the graphs found in the <a href="Report.pdf">report</a> as well as a summary and diagram of each distinct neural network architecture.
